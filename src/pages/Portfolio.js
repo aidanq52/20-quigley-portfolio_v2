@@ -1,5 +1,11 @@
 import React from "react";
-import {Card, Button} from "react-bootstrap"
+import {Card, Button} from "react-bootstrap";
+import fitnessPic from "../images/fitness.png";
+import noteTakerPic from "../images/noteTaker.png";
+import budgetPic from "../images/budget.png";
+import chefPic from "../images/chefPro.png";
+import gaeaPic from "../images/gaea.png";
+import directoryPic from "../images/directory.png"
 
 
 
@@ -13,12 +19,12 @@ function Project(){
 
 
     const apps = [
-        ["Ultimate Fitness Tracker", "https://the-ultimate-fitness-tracker.herokuapp.com/?id=5f334a2059852a0017420622", "fitness.png", "Get Fit", "https://github.com/aidanq52/17-Fitness-Tracker"], 
-        ["Note Taker", "https://sleepy-dawn-56235.herokuapp.com/", "noteTaker.png", "Take Notes", "https://github.com/aidanq52/11-Note_taker"],
-        ["Budget Tracker", "https://cryptic-badlands-37708.herokuapp.com/", "budget.png", "Figure Finances", "https://github.com/aidanq52/18-Budget-Tracker"],
-        ["ChefPro: Recipe Book", "https://uw-project-2.herokuapp.com/", "chefPro.png", "Get Cooking", "https://github.com/billyhao12/ChefPro"],
-        ["Gaea: Hiking Suggestiong", "https://saharanath.github.io/Project1/", "gaea.png", "Let's Hike", "https://github.com/saharanath/Project1"],
-        ["Employee Directory", "https://pure-plateau-15598.herokuapp.com/", "directory.png", "Employee Directory", "https://github.com/aidanq52/19-Employee-Directory"]
+        ["Ultimate Fitness Tracker", "https://the-ultimate-fitness-tracker.herokuapp.com/?id=5f334a2059852a0017420622", fitnessPic, "Get Fit", "https://github.com/aidanq52/17-Fitness-Tracker"], 
+        ["Note Taker", "https://sleepy-dawn-56235.herokuapp.com/", noteTakerPic, "Take Notes", "https://github.com/aidanq52/11-Note_taker"],
+        ["Budget Tracker", "https://cryptic-badlands-37708.herokuapp.com/", budgetPic, "Figure Finances", "https://github.com/aidanq52/18-Budget-Tracker"],
+        ["ChefPro: Recipe Book", "https://uw-project-2.herokuapp.com/", chefPic, "Get Cooking", "https://github.com/billyhao12/ChefPro"],
+        ["Gaea: Hiking Suggestiong", "https://saharanath.github.io/Project1/", gaeaPic, "Let's Hike", "https://github.com/saharanath/Project1"],
+        ["Employee Directory", "https://pure-plateau-15598.herokuapp.com/", directoryPic, "Employee Directory", "https://github.com/aidanq52/19-Employee-Directory"]
     ]
 
     return(

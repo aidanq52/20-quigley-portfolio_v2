@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "/20-quigley-portfolio/static/css/main.e3505628.chunk.css",
-    "main.js": "/20-quigley-portfolio/static/js/main.38b326c7.chunk.js",
-    "main.js.map": "/20-quigley-portfolio/static/js/main.38b326c7.chunk.js.map",
-    "runtime-main.js": "/20-quigley-portfolio/static/js/runtime-main.0c844af1.js",
-    "runtime-main.js.map": "/20-quigley-portfolio/static/js/runtime-main.0c844af1.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/20-quigley-portfolio/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.02b650df.chunk.js": "/20-quigley-portfolio/static/js/2.02b650df.chunk.js",
-    "static/js/2.02b650df.chunk.js.map": "/20-quigley-portfolio/static/js/2.02b650df.chunk.js.map",
-    "index.html": "/20-quigley-portfolio/index.html",
-    "precache-manifest.faad5323a923dd5bd0936ef209c047e1.js": "/20-quigley-portfolio/precache-manifest.faad5323a923dd5bd0936ef209c047e1.js",
-    "service-worker.js": "/20-quigley-portfolio/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/20-quigley-portfolio/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.e3505628.chunk.css.map": "/20-quigley-portfolio/static/css/main.e3505628.chunk.css.map",
-    "static/js/2.02b650df.chunk.js.LICENSE.txt": "/20-quigley-portfolio/static/js/2.02b650df.chunk.js.LICENSE.txt"
+    "main.css": "/20-quigley-portfolio_v2/static/css/main.e3505628.chunk.css",
+    "main.js": "/20-quigley-portfolio_v2/static/js/main.01526849.chunk.js",
+    "main.js.map": "/20-quigley-portfolio_v2/static/js/main.01526849.chunk.js.map",
+    "runtime-main.js": "/20-quigley-portfolio_v2/static/js/runtime-main.c6e5bb5f.js",
+    "runtime-main.js.map": "/20-quigley-portfolio_v2/static/js/runtime-main.c6e5bb5f.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/20-quigley-portfolio_v2/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.30ec395c.chunk.js": "/20-quigley-portfolio_v2/static/js/2.30ec395c.chunk.js",
+    "static/js/2.30ec395c.chunk.js.map": "/20-quigley-portfolio_v2/static/js/2.30ec395c.chunk.js.map",
+    "index.html": "/20-quigley-portfolio_v2/index.html",
+    "precache-manifest.4be728545c4edf76320b6975c1ffa12e.js": "/20-quigley-portfolio_v2/precache-manifest.4be728545c4edf76320b6975c1ffa12e.js",
+    "service-worker.js": "/20-quigley-portfolio_v2/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/20-quigley-portfolio_v2/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.e3505628.chunk.css.map": "/20-quigley-portfolio_v2/static/css/main.e3505628.chunk.css.map",
+    "static/js/2.30ec395c.chunk.js.LICENSE.txt": "/20-quigley-portfolio_v2/static/js/2.30ec395c.chunk.js.LICENSE.txt",
+    "static/media/budget.png": "/20-quigley-portfolio_v2/static/media/budget.83869753.png",
+    "static/media/chefPro.png": "/20-quigley-portfolio_v2/static/media/chefPro.cceb3b90.png",
+    "static/media/directory.png": "/20-quigley-portfolio_v2/static/media/directory.598bca1d.png",
+    "static/media/fitness.png": "/20-quigley-portfolio_v2/static/media/fitness.113e250e.png",
+    "static/media/gaea.png": "/20-quigley-portfolio_v2/static/media/gaea.425c27f5.png",
+    "static/media/graduation.png": "/20-quigley-portfolio_v2/static/media/graduation.30dad943.png",
+    "static/media/noteTaker.png": "/20-quigley-portfolio_v2/static/media/noteTaker.b5ed9dde.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c844af1.js",
+    "static/js/runtime-main.c6e5bb5f.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.02b650df.chunk.js",
+    "static/js/2.30ec395c.chunk.js",
     "static/css/main.e3505628.chunk.css",
-    "static/js/main.38b326c7.chunk.js"
+    "static/js/main.01526849.chunk.js"
   ]
 }

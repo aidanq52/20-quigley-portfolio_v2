@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e3505628.chunk.css",
+    "main.js": "/static/js/main.88ead0af.chunk.js",
+    "main.js.map": "/static/js/main.88ead0af.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.30ec395c.chunk.js": "/static/js/2.30ec395c.chunk.js",
+    "static/js/2.30ec395c.chunk.js.map": "/static/js/2.30ec395c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f41421918365ca9b774ea382db51d48f.js": "/precache-manifest.f41421918365ca9b774ea382db51d48f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.e3505628.chunk.css.map": "/static/css/main.e3505628.chunk.css.map",
+    "static/js/2.30ec395c.chunk.js.LICENSE.txt": "/static/js/2.30ec395c.chunk.js.LICENSE.txt",
+    "static/media/budget.png": "/static/media/budget.83869753.png",
+    "static/media/chefPro.png": "/static/media/chefPro.cceb3b90.png",
+    "static/media/directory.png": "/static/media/directory.598bca1d.png",
+    "static/media/fitness.png": "/static/media/fitness.113e250e.png",
+    "static/media/gaea.png": "/static/media/gaea.425c27f5.png",
+    "static/media/graduation.png": "/static/media/graduation.30dad943.png",
+    "static/media/noteTaker.png": "/static/media/noteTaker.b5ed9dde.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.30ec395c.chunk.js",
+    "static/css/main.e3505628.chunk.css",
+    "static/js/main.88ead0af.chunk.js"
+  ]
+}
